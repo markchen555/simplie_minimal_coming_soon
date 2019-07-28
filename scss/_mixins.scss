@@ -8,6 +8,10 @@
 }
 
 // Font Mixins
+@mixin logo-font {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+}
 @mixin body-font {
   font-family: 'Source Sans Pro';
   font-weight: 300;

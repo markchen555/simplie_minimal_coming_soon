@@ -60,6 +60,11 @@ video {
   z-index: 1;
 }
 
+.logo {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+}
+
 .masthead {
   position: relative;
   overflow: hidden;
@@ -93,6 +98,10 @@ video {
 
 .masthead .masthead-content p strong {
   font-weight: 700;
+}
+
+.masthead .masthead-content .logo {
+  font-size: 1.1rem;
 }
 
 .masthead .masthead-content .input-group-newsletter input {
